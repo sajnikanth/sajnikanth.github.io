@@ -3,7 +3,7 @@ Source code for [sajnikanth.com](http://sajnikanth.com)
 Setup
 =====
 
-* gihub pages throw a 302 sometimes. Read more about the issue [here](http://davidensinger.com/2014/04/transferring-the-dns-from-namecheap-to-cloudflare-for-github-pages/)
+* github pages throw a 302 sometimes. Read more about the issue [here](http://davidensinger.com/2014/04/transferring-the-dns-from-namecheap-to-cloudflare-for-github-pages/)
 * To avoid that, use [cloudflare](https://cloudflare.com)
 * Transfer DNS from namecheap to cloudfare
 * Use CNAME instead of A record to point to sajnikanth.github.io
